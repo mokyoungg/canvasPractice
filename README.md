@@ -1,21 +1,7 @@
-## 프로젝트를 위한 초기세팅
+# React에서 Canvas 사용 연습
 
-React로 제작하는 프로젝트를 위한 초기 세팅.
+React 환경에서 canvas 태그를 활용하여 마우스로 그림 그리기 기능 구현
 
-라이브러리 설치 및 eslint 세팅.
-
-### 설치된 라이브러리
-- axios
-- cra-template
-- react
-- react-dom
-- react-redux
-- react-router-dom
-- react-scripts
-- redux
-- redux-saga
-- redux-thunk
-- styled-components
-- node-sass
-
-### Git clone 후 npm install 필수
+### 사용한 기술
+- React (Hooks)
+- SASS
