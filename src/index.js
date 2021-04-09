@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Canvas from "./components/canvas/Canvas";
+//import App from "./components/App";
+import App from "./interview/App";
 
-ReactDOM.render(<Canvas />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root"));
